@@ -1,0 +1,13 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": false,
+  "openNewNote": true,
+  "headingFormat": "#",
+  "newFileLocation": 0,
+  "customFolder": "",
+  "fileNamePrefix": "",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "[[{{new_note_title}}]]",
+  "refactoredNoteTemplate": "---\ntype: auteur/concept/...\ncourant: scepticisme\nepoque: antiquité\nstatut: à creuser\n---\n\n{{new_note_content}}",
+  "normalizeHeaderLevels": false
+}

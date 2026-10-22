@@ -1,0 +1,23 @@
+{
+  "switcher:open": [],
+  "editor:open-search-replace": [],
+  "editor:insert-link": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": []
+}
