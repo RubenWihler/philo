@@ -57,4 +57,4 @@ Mais la nécessité de se reproduire ne suffit pas a nous donner envie de nous r
 
 Donc il faut que cette nécessite de se reproduire se manifeste a travers le désir : ici le désir amoureux / sexuel
 
-**Et tout cela me semble totalement valide pour les animaux aussi meme si certain n’étant pas assez "intelligent" pour posséder une forme d’identité, ses désirs reste inconscient**
+**Et tout cela me semble totalement valide pour les animaux aussi meme si certain n’étant pas assez "intelligent" pour posséder une forme d’identité, leurs désirs reste simplement inconscient**

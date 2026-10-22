@@ -90,6 +90,8 @@ C'est justement parce qu'elle ne peut pas faire autrement que de persévérer da
 
 Si elle ne s'efforcerait pas de persévérer dans son être, son corps cesserait d’être en mouvement, ce qui signifierait qu'elle mourrait. C'est justement parce que son conatus la fait persévérer dans son être malgré elle. Elle n'a pas d'autre choix que de mettre fin a ses jours.
 
+## Asservi a nos désirs
+
 Nous somme donc vouer a désirer sans fin, mais en plus nous n'avons aucune emprise sur notre désir : nous vivons dans la servitude la plus total.
 
 C'est exactement a cette servitude que [[L'Éthique]] doit nous arracher. Il s'agit de sortir de notre servitude, non pas en niant notre désir (aucun sens car ce serait nier notre essence)
