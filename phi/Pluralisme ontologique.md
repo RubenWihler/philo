@@ -13,5 +13,5 @@ s'oppose au [[Monisme]]
 
 **Modes d'être distincts** : Les entités concrètes (une chaise, un chien), les entités abstraites (un nombre, un ensemble) ou les états mentaux posséderaient des statuts d'existence irréductibles les uns aux autres.
 
-**Approches contemporaines** : Des philosophes comme [[Kris McDaniel]], [[Gabriel Turner]] ou [[Trenton Merricks]] ont relancé ce débat en l'articulant souvent autour de la sémantique des quantificateurs et de la métaphysique (temps, objets, esprits).
+**Approches contemporaines** : Des philosophes comme [[Kris McDaniel]], [[Gabriel Turner]] ou [[Trenton Merricks]] ont relancé ce débat en l'articulant souvent autour de la sémantique des quantificateurs et de la [[métaphysique]] (temps, objets, esprits).
 
